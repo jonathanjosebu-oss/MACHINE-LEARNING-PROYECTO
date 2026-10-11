@@ -41,7 +41,7 @@ El flujo de trabajo implementado en la notebook se divide en los siguientes mód
 
 * [1] A. Grbić et al., *"RepoRT: A repository of chromatographic retention data"*, Journal of Chromatography A, 2021.
 * [2] F. Pedregosa et al., *"Scikit-learn: Machine Learning in Python"*, Journal of Machine Learning Research, vol. 12, pp. 2825–2830, 2011.
-* [3] Asistencia técnica en fragmentos de código e interpretación de curvas de aprendizaje apoyada mediante modelos de lenguaje (OpenAI / Google Gemini), documentada inline en los comentarios del código fuente.
+* [3] Asistencia técnica en fragmentos de código (OpenAI / Google Gemini), documentada inline en los comentarios del código fuente.
 
 ---
 
